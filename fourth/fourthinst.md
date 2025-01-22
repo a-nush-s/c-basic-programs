@@ -1,5 +1,5 @@
 this program will multiply two matricies together. 
-the first line of the input should be the number of rows and columns in the first matrix.
+the first line of the input .txt file should be the number of rows and columns in the first matrix.
 subsequent lines should be the first matrix.
 then repeat this format for the second matrix. e.g. (view in code)
 2 3
